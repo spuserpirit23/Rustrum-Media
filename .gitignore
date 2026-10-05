@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+*.sqlite3
+.env
+roster.db
+roster-media-frontend.zip
+.DS_Store
+Thumbs.db
